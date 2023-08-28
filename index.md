@@ -6,3 +6,8 @@
 $ git clone "URL_GIT_REPOSITORY"
 Cloning into 'URL_GIT_REPOSITORY'...
 ```
+
+### Activity
+- [ ] Validate sintaxis
+- [ ] Check code
+- [ ] Create pull request
